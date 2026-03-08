@@ -1,2 +1,1 @@
-
-vless://dark-vpn-test@127.0.0.1:443?encryption=none&security=tls&type=tcp#DARKvpn_Test
+vless://73d52033-9112-426c-8903-51834e56993a@141.94.244.209:443?encryption=none&security=tls&type=tcp#DARK_VPN_SERVER
