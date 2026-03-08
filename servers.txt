@@ -1,0 +1,2 @@
+
+vless://dark-vpn-test@127.0.0.1:443?encryption=none&security=tls&type=tcp#DARKvpn_Test
