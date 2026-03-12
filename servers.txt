@@ -1,1 +1,1 @@
-vless://73d52033-9112-426c-8903-51834e56993a@141.94.244.209:443?encryption=none&security=tls&type=tcp#DARK_VPN_SERVER
+vless://f08ba01d-1f49-4e95-b578-d4323c639b43@www.google.com:443?type=ws&security=tls&path=%2F&sni=www.google.com#darkvpn
